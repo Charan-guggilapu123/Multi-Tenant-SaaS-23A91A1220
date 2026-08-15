@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "postinstall": "node scripts/setup-react-scripts-shim.js"
+  }
+}
